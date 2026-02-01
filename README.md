@@ -1,13 +1,13 @@
 # 👋 Adil Husain
 
-**Technical Analyst | Data Analytics | Python & SQL Enthusiast**
+** Analyst | Data Analytics | Python & SQL Enthusiast**
 🎓 *B.Tech – Mechanical Engineering*
 
 ---
 
 ## 🔍 About Me
 
-I am a **Technical Analyst at HCL Technologies** with a strong foundation in **data analytics, reporting, and asset management systems**. My background in engineering helps me approach problems analytically, while my growing expertise in **Python, SQL, and data visualization** enables me to transform raw data into meaningful insights.
+I am a ** Analyst at HCL Technologies** with a strong foundation in **data analytics, reporting, and asset management systems**. My background in engineering helps me approach problems analytically, while my growing expertise in **Python, SQL, and data visualization** enables me to transform raw data into meaningful insights.
 
 I focus on **accuracy, clarity, and business usefulness** rather than over-complex or fragile solutions.
 
