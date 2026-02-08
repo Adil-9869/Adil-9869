@@ -1,6 +1,6 @@
 # 👋 Adil Husain
 
-** Analyst | Data Analytics | Python & SQL Enthusiast**
+** Senior Analyst | Data Analytics | Python & SQL Enthusiast**
 🎓 *B.Tech – Mechanical Engineering*
 
 ---
